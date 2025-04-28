@@ -7,7 +7,7 @@ Challenge proposto pela alura como parte do curso de modelagem de dados da trilh
 * Pandas
 * Matplotlib
 * Folium
-* statistics
+* Statistics
   
 ## :notebook_with_decorative_cover: Como utiliza-lo
 ## :dart: Objetivos da analise
