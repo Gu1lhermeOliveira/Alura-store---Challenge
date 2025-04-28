@@ -36,8 +36,38 @@ google colab
 * Frete médio.
 
 ## :bulb: Visualização e insights
-<h3>Faturamento</h3>
-![image](Imagens/faturamento.png)
+### 1. Faturamento Total por loja
+![image](image/faturamento.png)
+
+### 2. Categorias mais vendidas
+![image](image/vendas_categoria.png)
+
+### 3. Média de avaliações dos clientes
+![image](image/media_avaliacoes.png)
+
+### 4. Produtos Mais vendidos
+![image](image/produtos_mais_vendidos.png)
+
+### 5. Produto menos vendidos
+![image](image/Produtos_menos_vendidos.png)
+
+### 5. Custo do Frete Médio por loja
+![image](image/media_frete.png)
+
+### 6. Quantidade de Vendas Realizadas por estado
+![image](image/vendas_estado.png)
+
+### 7. Mapa Territorial mostrando a presença das lojas do seu João
+![image](image/mapa.png)
+
+
+
+
+
+
+
+
+
 
 ## :chart_with_downwards_trend:	Conclusão dos itens Analisados
 ## :triangular_flag_on_post: Recomendação final para seu João
