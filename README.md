@@ -29,6 +29,7 @@ google colab
 ````
 
 ## :dart: Objetivos da analise
+
 * Visualizar o Faturamento de cada loja;
 * As Categorias mais vendidas;
 * Média das Avaliações dos clientes dividido por loja;
@@ -61,16 +62,6 @@ google colab
 ![image](image/mapa.png)
 
 
-
-
-
-
-
-
-
-
-## :chart_with_downwards_trend:	Conclusão dos itens Analisados
-## :triangular_flag_on_post: Recomendação final para seu João
 ## ⚠️ Autor do projeto
 
 ### Linkedin: www.linkedin.com/in/guilhermedooliveira
