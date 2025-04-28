@@ -37,7 +37,7 @@ google colab
 
 ## :bulb: Visualização e insights
 <h3>Faturamento</h3>
-[image](imagens/faturamento.png)
+![image](Imagens/faturamento.png)
 
 ## :chart_with_downwards_trend:	Conclusão dos itens Analisados
 ## :triangular_flag_on_post: Recomendação final para seu João
