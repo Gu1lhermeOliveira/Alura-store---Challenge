@@ -15,7 +15,7 @@ Este projeto utiliza dados simulados de vendas para criar visualizações que aj
 
 ## 1. Clone o repositório ou baixe os arquivos .ipynb
 ```bash
-git clone https://github.com/seu-usuario/AluraStoreBr.git
+git clone https://github.com/Gu1lhermeOliveira/Alura-store---Challenge.git
 ````
 
 ## 2. Instale as depedências (caso ainda não tenha)
