@@ -47,7 +47,7 @@ google colab
 ![image](image/media_avaliacoes.png)
 
 ### 4. Produtos Mais vendidos
-![image](image/produtos_mais_vendidos.png)
+![image](image/mais_vendidos.png)
 
 ### 5. Produto menos vendidos
 ![image](image/Produtos_menos_vendidos.png)
